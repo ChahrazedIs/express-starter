@@ -1,7 +1,7 @@
-# A nodejs express starter including minimal common used modules
+# Un starter contenant la configuration minimale d'un server nodejs avec express
 
 # Pre-reqs
-To build and run this app locally you will need a few things:
+Pour pouvoir lancer ce projet en local vous devriez avoir node installé
 - Install [Node.js](https://nodejs.org/en/)
 
 
@@ -20,4 +20,11 @@ npm install
 npm start
 ```
 
-Finally, navigate to `http://localhost:3000` and you should see the template being served and rendered locally!
+En fin, vous pouvez visitez `http://localhost:3000` et vous aurez votre starter bien lancé!!
+
+
+# Vous vous voulez apprendre à utiliser node et express ?
+
+[Je vous invite à visiter mon blog : ](https://chahrazed-ismail.com/tutoriel/creer-une-application-de-gestion-des-taches-avec-nodejs) 
+
+
