@@ -25,6 +25,6 @@ En fin, vous pouvez visitez `http://localhost:3000` et vous aurez votre starter 
 
 # Vous vous voulez apprendre à utiliser node et express ?
 
-[Je vous invite à visiter mon blog : ](https://chahrazed-ismail.com/tutoriel/creer-une-application-de-gestion-des-taches-avec-nodejs) 
+[Je vous invite à visiter mon blog : Code with Chahrazed ](https://chahrazed-ismail.com/tutoriel/creer-une-application-de-gestion-des-taches-avec-nodejs) 
 
 
