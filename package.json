@@ -1,0 +1,15 @@
+{
+  "name": "node-express-starter",
+  "version": "1.0.0",
+  "description": "A simple nodejs starter including express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Chahrazed Ismail",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
